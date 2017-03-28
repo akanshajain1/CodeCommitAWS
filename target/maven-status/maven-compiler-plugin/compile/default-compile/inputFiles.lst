@@ -1,0 +1,16 @@
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\entity\EntityClass.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\controller\ControllerClass.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\util\HibernateUtil.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\dao\DAOClassForDynamo.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\util\AWSServices.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\entity\EntityClassForDynamo.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\dao\DAOClass.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\service\Service.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\util\SNSClass.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\dto\DTO.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\exception\ServiceException.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\exception\DAOException.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\util\Mail.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\util\CloudWatch.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\util\S3Upload.java
+D:\workspace\SpringExampleV2\src\main\java\com\mindtree\springexamplev2\util\ApplicationLogs.java

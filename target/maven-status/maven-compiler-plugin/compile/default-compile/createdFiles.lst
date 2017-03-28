@@ -1,0 +1,16 @@
+com\mindtree\springexamplev2\entity\EntityClassForDynamo.class
+com\mindtree\springexamplev2\controller\ControllerClass.class
+com\mindtree\springexamplev2\entity\EntityClass.class
+com\mindtree\springexamplev2\service\Service.class
+com\mindtree\springexamplev2\exception\ServiceException.class
+com\mindtree\springexamplev2\exception\DAOException.class
+com\mindtree\springexamplev2\util\ApplicationLogs.class
+com\mindtree\springexamplev2\util\S3Upload.class
+com\mindtree\springexamplev2\util\Mail.class
+com\mindtree\springexamplev2\dao\DAOClassForDynamo.class
+com\mindtree\springexamplev2\util\CloudWatch.class
+com\mindtree\springexamplev2\dao\DAOClass.class
+com\mindtree\springexamplev2\util\AWSServices.class
+com\mindtree\springexamplev2\util\SNSClass.class
+com\mindtree\springexamplev2\util\HibernateUtil.class
+com\mindtree\springexamplev2\dto\DTO.class
